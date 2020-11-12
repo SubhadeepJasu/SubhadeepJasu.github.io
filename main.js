@@ -89,7 +89,7 @@ function AppComponent_pre_90_Template(rf, ctx) { if (rf & 1) {
 } }
 class AppComponent {
     constructor() {
-        this.title = 'jazz-landing-page';
+        this.title = 'Subhadeep Jasu';
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(); };
