@@ -1,3 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+h1 {
+  font-family: "Inter", sans-serif;
+}
+h2, p {
+  font-family: "Play", sans-serif;
+}
+b {
+  font-family: "Play", sans-serif;
+  font-weight: 700;
+}
+app-root {
+  height: 100%;
+}
 
 /*# sourceMappingURL=styles.css.map*/
