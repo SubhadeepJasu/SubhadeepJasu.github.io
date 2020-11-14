@@ -23,5 +23,47 @@ b {
 app-root {
   height: 100%;
 }
+/* Buttons */
+.close-button {
+  float: right;
+  background: none;
+  border: none;
+  border-radius: 2px;
+  width: 24px;
+  height: 24px;
+  padding: inherit;
+  margin-top: 4px;
+  margin-right: 4px;
+}
+.close-button svg {
+  margin-top: -4px;
+}
+.close-button:hover {
+  background-color: #55555548;
+}
+.close-button:focus {
+  outline: 0px transparent !important;
+  background-color: #c52929;
+}
+.close-button:focus * {
+  color: #fff;
+}
+.btn-suggested-action {
+  background: #6d29c5;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  color: #fff;
+  border: 1px transparent;
+  margin: 0px;
+  border-radius: 6px;
+  box-shadow: 0 0px 0px #0000;
+  transition: all 0.2s ease-out;
+}
+.btn-suggested-action:hover {
+  background: #af33e9;
+  box-shadow: 0 2px 8px #0008;
+}
 
 /*# sourceMappingURL=styles.css.map*/
