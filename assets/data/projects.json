@@ -2,6 +2,22 @@
     {
         "name": "Pebbles",
         "rdnn": "com.github.subhadeepjasu.pebbles",
-        "theme_color": "#82aca8"
+        "theme_color": "#82aca8",
+        "tag_line": "Perform advanced calculations with ease",
+        "description": "An advanced calculator that helps you with complicated calculations in your homework",
+        "image": "/screenshots/Screenshot.png",
+        "store_link_text": [
+            "AppCenter"
+        ],
+        "store_link_uri": [
+            "https://appcenter.elementary.io/com.github.subhadeepjasu.pebbles/"
+        ],
+        "store_badge_uri": [
+            "https://appcenter.elementary.io/badge.svg"
+        ],
+        "source_code_uri": "https://github.com/SubhadeepJasu/pebbles",
+        "source_code_name": "Github",
+        "help_uri": "https://github.com/SubhadeepJasu/pebbles/issues",
+        "other_legal_notice": "© 2020 Subhadeep Jasu"
     }
 ]

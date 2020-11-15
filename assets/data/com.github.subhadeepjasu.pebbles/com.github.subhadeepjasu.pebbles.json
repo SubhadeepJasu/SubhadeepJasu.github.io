@@ -1,0 +1,12 @@
+[
+    {
+        "header": "Scientific",
+        "image": "/screenshots/Screenshot-Scientific.png",
+        "description": "Perform scientific calculations with ease. Type the whole expression and evaluate result from that."
+    },
+    {
+        "header": "Prof. Calculus approves!",
+        "image": "/screenshots/Screenshot-Calculus.png",
+        "description": "Not every math needs to be rocket science but like the professor, you can find out how fast rocket goes or how much fuel it will take"
+    }
+]
