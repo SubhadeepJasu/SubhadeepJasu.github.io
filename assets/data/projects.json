@@ -1,6 +1,7 @@
 [
     {
         "name": "Pebbles",
+        "repository": "pebbles",
         "rdnn": "com.github.subhadeepjasu.pebbles",
         "theme_color": "#82aca8",
         "tag_line": "Perform advanced calculations with ease",

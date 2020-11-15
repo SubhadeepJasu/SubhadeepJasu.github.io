@@ -661,14 +661,26 @@ class ProjectLandingComponent {
     ngOnInit() {
         this.route.params.subscribe((params) => {
             this.id = params.id;
-            console.log(this.id);
-            this.getProject();
+            this.getProject(params.repository);
         });
     }
-    getProject() {
+    getProject(repo) {
         this.projectService.getProjects().subscribe((projects) => {
             var _a, _b, _c, _d, _e, _f, _g, _h, _j, _k, _l, _m;
             console.log(projects);
+            if (this.id === undefined && repo) {
+                let i = 0;
+                while (true) {
+                    if (projects[i] === undefined) {
+                        break;
+                    }
+                    if (projects[i].repository === repo) {
+                        this.id = i;
+                        break;
+                    }
+                    i++;
+                }
+            }
             this.project = projects[this.id];
             console.log(this.project);
             this.rdnn = (_a = this.project) === null || _a === void 0 ? void 0 : _a.rdnn;
@@ -916,6 +928,10 @@ __webpack_require__.r(__webpack_exports__);
 const routes = [
     {
         path: 'project/:id',
+        component: _project_landing_project_landing_component__WEBPACK_IMPORTED_MODULE_2__["ProjectLandingComponent"]
+    },
+    {
+        path: ':repository',
         component: _project_landing_project_landing_component__WEBPACK_IMPORTED_MODULE_2__["ProjectLandingComponent"]
     }
 ];
