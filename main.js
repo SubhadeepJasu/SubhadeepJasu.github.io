@@ -378,8 +378,9 @@ class AppComponent {
                 this.routerComponentOpen = false;
             }
         });
-        this.route.params.subscribe((params) => {
-            this.getProject(params.repository);
+        this.route.fragment.subscribe((params) => {
+            this.getProject(params);
+            console.log(params);
         });
     }
     getProject(repo) {
@@ -948,10 +949,6 @@ const routes = [
     {
         path: 'project/:id',
         component: _project_landing_project_landing_component__WEBPACK_IMPORTED_MODULE_3__["ProjectLandingComponent"]
-    },
-    {
-        path: ':repository',
-        component: _app_component__WEBPACK_IMPORTED_MODULE_2__["AppComponent"]
     },
     {
         path: '',
