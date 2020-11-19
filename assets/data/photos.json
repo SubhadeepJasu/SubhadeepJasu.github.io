@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Vibrance",
+        "device": "Lumia 550",
+        "source": "kolkata_skyline.jpg"
+    },
+    {
+        "name": "Water Side",
+        "device": "Lumia 550",
+        "source": "waterside.jpg"
+    },
+    {
+        "name": "Holy Lights",
+        "device": "Realme X",
+        "source": "diwali.jpg"
+    }
+]
