@@ -48,6 +48,27 @@ app-root {
 .close-button:focus * {
   color: #fff;
 }
+@media (prefers-color-scheme: dark) {
+  hr {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .close-button svg {
+    color: #fff;
+  }
+
+  .close-button:hover {
+    background-color: #00000048;
+  }
+
+  .close-button:focus {
+    outline: 0px transparent !important;
+    background-color: #c52929;
+  }
+  .close-button:focus * {
+    color: #fff;
+  }
+}
 .btn-suggested-action {
   background: #6d29c5;
   padding-left: 20px;
@@ -64,6 +85,12 @@ app-root {
 .btn-suggested-action:hover {
   background: #af33e9;
   box-shadow: 0 2px 8px #0008;
+}
+a, a:active, a:visited {
+  color: #3689e6;
+}
+a:hover {
+  color: #4da0ff;
 }
 
 /*# sourceMappingURL=styles.css.map*/
