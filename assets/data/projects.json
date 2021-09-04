@@ -8,17 +8,83 @@
         "description": "An advanced calculator that helps you with complicated calculations in your homework",
         "image": "/screenshots/Screenshot.png",
         "store_link_text": [
-            "AppCenter"
+            "AppCenter",
+            "Flathub"
         ],
         "store_link_uri": [
-            "https://appcenter.elementary.io/com.github.subhadeepjasu.pebbles/"
+            "https://appcenter.elementary.io/com.github.subhadeepjasu.pebbles/",
+            "https://flathub.org/apps/details/com.github.subhadeepjasu.pebbles"
         ],
         "store_badge_uri": [
-            "https://appcenter.elementary.io/badge.svg"
+            "https://appcenter.elementary.io/badge.svg",
+            "https://flathub.org/assets/badges/flathub-badge-i-en.svg"
         ],
         "source_code_uri": "https://github.com/SubhadeepJasu/pebbles",
         "source_code_name": "Github",
         "help_uri": "https://github.com/SubhadeepJasu/pebbles/issues",
-        "other_legal_notice": "© 2020 Subhadeep Jasu"
+        "other_legal_notice": "© 2021 Subhadeep Jasu"
+    },
+    {
+        "name": "Ensembles",
+        "repository": "ensembles",
+        "rdnn": "com.github.subhadeepjasu.ensembles",
+        "theme_color": "#CD5F20",
+        "tag_line": "Play and arrange music live as a one-person band",
+        "description": "It is an arranger workstation app where you can play music, arrange a performance or improvise based on styles",
+        "image": "/screenshots/Screenshot.png",
+        "store_link_text": [
+            "AppCenter"
+        ],
+        "store_link_uri": [
+            "https://appcenter.elementary.io/com.github.subhadeepjasu.ensembles/"
+        ],
+        "store_badge_uri": [
+            "https://appcenter.elementary.io/badge.svg"
+        ],
+        "source_code_uri": "https://github.com/SubhadeepJasu/Ensembles",
+        "source_code_name": "Github",
+        "help_uri": "https://github.com/SubhadeepJasu/Ensembles/issues",
+        "other_legal_notice": "© 2021 Subhadeep Jasu"
+    },
+    {
+        "name": "Enigma",
+        "repository": "enigma",
+        "rdnn": "com.github.subhadeepjasu.enigma",
+        "theme_color": "#57392D",
+        "tag_line": "An Enigma Machine emulator",
+        "description": "A classic 3-rotor Enigma machine emulator mainly for demonstration purpose",
+        "image": "/screenshots/Screenshot.png",
+        "store_link_text": [
+            "AppCenter"
+        ],
+        "store_link_uri": [
+            "https://appcenter.elementary.io/com.github.subhadeepjasu.enigma/"
+        ],
+        "store_badge_uri": [
+            "https://appcenter.elementary.io/badge.svg"
+        ],
+        "source_code_uri": "https://github.com/SubhadeepJasu/enigma",
+        "source_code_name": "Github",
+        "help_uri": "https://github.com/SubhadeepJasu/enigma/issues",
+        "other_legal_notice": "© 2021 Subhadeep Jasu"
+    },
+    {
+        "name": "SPV3",
+        "repository": "halospv3",
+        "rdnn": "com.github.HaloSPV3",
+        "theme_color": "#15294c",
+        "tag_line": "Single Player Version 3",
+        "description": "It is a total overhaul of the original Halo, adding new weapons, vehicles, enemies, features, graphics, extended levels, new levels, new story terminals and much much more. I was the tech artist and UI designer for this project",
+        "image": "/screenshots/Screenshot.png",
+        "store_link_text": [
+        ],
+        "store_link_uri": [
+        ],
+        "store_badge_uri": [
+        ],
+        "source_code_uri": "https://github.com/HaloSPV3",
+        "source_code_name": "Github",
+        "help_uri": "https://github.com/HaloSPV3/SPV3-Loader/issues",
+        "other_legal_notice": "SPV3 Loader & Utilities (c) 2019 Emilian Roman, Halo (c) Microsoft Corporation"
     }
 ]
