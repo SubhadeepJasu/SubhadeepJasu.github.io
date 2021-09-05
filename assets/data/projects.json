@@ -72,7 +72,7 @@
         "name": "SPV3",
         "repository": "halospv3",
         "rdnn": "com.github.HaloSPV3",
-        "theme_color": "#15294c",
+        "theme_color": "#3e69b3",
         "tag_line": "Single Player Version 3",
         "description": "It is a total overhaul of the original Halo, adding new weapons, vehicles, enemies, features, graphics, extended levels, new levels, new story terminals and much much more. I was the tech artist and UI designer for this project",
         "image": "/screenshots/Screenshot.png",

@@ -1,13 +1,13 @@
 [
     {
-        "header": "Layer, Split, Harmonize",
-        "image": "/screenshots/Screenshot-CtrlPanel.png",
-        "description": "Split Keyboard or Layer two voices for multiple voice playback. Automatically harmonize and/or play arpeggio"
-    },
-    {
         "header": "Awesome Sounds",
         "image": "/screenshots/Screenshot-Voice.png",
         "description": "Play any instrument from a selection of more than 200 in-built voices"
+    },
+    {
+        "header": "Layer, Split, Harmonize",
+        "image": "/screenshots/Screenshot-CtrlPanel.png",
+        "description": "Split Keyboard or Layer two voices for multiple voice playback. Automatically harmonize and/or play arpeggio"
     },
     {
         "header": "Registry Memory & Sampling",
