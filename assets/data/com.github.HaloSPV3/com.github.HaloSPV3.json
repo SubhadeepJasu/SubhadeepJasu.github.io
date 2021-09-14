@@ -2,31 +2,31 @@
     {
         "header": "2 Campaigns, 17 Missions",
         "image": "/screenshots/Architecture.bmp",
-        "description": "You can not only follow the adventures of Master Chief but also see things from the prespective of Thel Vadam, while you were busy fighting the covanant. You can also play as Spartan May and find out what the hell is going on with the mysterious planet that your ship landed on"
+        "description": "You can not only follow the adventures of Master Chief but also see things from the prespective of Thel Vadam, while you were busy fighting the Covenant. You can also play as Spartan May and find out what the hell is going on with the mysterious planet that your ship landed on"
     },
     {
-        "header": "More Foe",
+        "header": "Familiar and New Foes",
         "image": "/screenshots/Foe.bmp",
-        "description": "About 18 new types of enemy characters. They are also much more challenging to fight. The covenant have been busy recruiting and every type of character can be infected by flood"
+        "description": "About 18 new types of enemy characters. Re-imagined enemies that are much more challenging to fight. The Covenant have been busy recruiting, and every one of their ranks (besides Hunters) can be infected by The Flood"
     },
     {
-        "header": "More Vehicles To Kill Foe",
+        "header": "More Vehicles To Kill Foes",
         "image": "/screenshots/Tank.bmp",
-        "description": "But fear not because you have a lot of new vehicles to destroy the covenant even faster"
+        "description": "Turn the tides against your enemies with an assortment of destructive vehicles, each with unique variants"
     },
     {
         "header": "Largest Sandbox",
         "image": "/screenshots/Sandbox.bmp",
-        "description": "SPV3 has the biggest sandbox of any Halo game for the time, with over 45 new weapons, 18 new enemies, and triple the number of vehicles. Plus there are 15 skulls so you can make every playthrough unique"
+        "description": "SPV3 boasts the largest sandbox of any current Halo game, with over 45 new weapons, 18 new enemies, and triple the number of vehicles -- each with their own unique functions, behaviors, and roles in order to keep gameplay interesting. There are also 15 unique skulls, which can be used to make every playthrough unique"
     },
     {
         "header": "Stunning Visuals",
         "image": "/screenshots/Visuals.bmp",
-        "description": "There's a ton of post processing effects that bring the 2001 game to modern day standards. There is better lighting, ambient dynamic shadows, path traced reflections, better HDR and lot more"
+        "description": "SPV3 re-imagines the visuals of Combat Evolved by drawing inspiration from other Halo titles, and pushes the limits of the 2001 game's engine to bring its graphics to modern day standards. Incorporates post processing effects to add immersive lighting, ambient dynamic shadows, path traced reflections, improved HDR, and more"
     },
     {
         "header": "Community",
         "image": "/screenshots/Community.bmp",
-        "description": "SPV3 is a huge culmination of Custom Edition community content with over two decades of development time. It's a celebration of creativity of the Halo modding community"
+        "description": "SPV3 is the culmination of two decades of Custom Edition community content and development time, serving as a celebration of the Halo modding community's endless creativity"
     }
 ]
