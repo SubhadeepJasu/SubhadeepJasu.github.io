@@ -1,17 +1,42 @@
 [
     {
+        "name": "Holy Lights",
+        "device": "Realme X",
+        "source": "diwali.jpg"
+    },
+    {
+        "name": "The Bridge of Wisdom",
+        "device": "Realme X",
+        "source": "bridge_of_wisdom.jpg"
+    },
+    {
+        "name": "Cityscape",
+        "device": "Realme X",
+        "source": "city_scape.jpg"
+    },
+    {
+        "name": "Rural Sunset",
+        "device": "Realme X",
+        "source": "rural_sunset.jpg"
+    },
+    {
+        "name": "Ganga",
+        "device": "Realme X",
+        "source": "ganges.jpg"
+    },
+    {
         "name": "Vibrance",
         "device": "Lumia 550",
         "source": "kolkata_skyline.jpg"
     },
     {
+        "name": "River Side Lanterns",
+        "device": "Realme X",
+        "source": "river_side_lantern.jpg"
+    },
+    {
         "name": "Water Side",
         "device": "Lumia 550",
         "source": "waterside.jpg"
-    },
-    {
-        "name": "Holy Lights",
-        "device": "Realme X",
-        "source": "diwali.jpg"
     }
 ]

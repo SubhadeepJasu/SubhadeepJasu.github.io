@@ -1,0 +1,59 @@
+{
+    "name": "Pebbles",
+    "tagline": "An easy to use yet powerful calculator app",
+    "description": "An advanced calculator that helps you with complicated calculations in your homework",
+    "repository": "pebbles",
+    "rdnn": "com.github.subhadeepjasu.pebbles",
+    "accentColor": "#84AEAA",
+    "image": "/screenshots/Screenshot.png",
+    "storeLinkText": [
+        "AppCenter"
+    ],
+    "storeLinkUri": [
+        "https://appcenter.elementary.io/com.github.subhadeepjasu.pebbles/"
+    ],
+    "storeBadgeUri": [
+        "https://appcenter.elementary.io/badge.svg"
+    ],
+    "sourceCodeUri": "https://github.com/SubhadeepJasu/pebbles",
+    "sourceCodeName": "Github",
+    "helpUri": "https://github.com/SubhadeepJasu/pebbles/issues",
+    "otherLegalNotice": "© 2021 Subhadeep Jasu",
+    "features": [
+        {
+            "header": "Scientific",
+            "image": "/screenshots/Screenshot-Scientific.png",
+            "description": "Perform scientific calculations with ease. Type the whole expression and evaluate result from that"
+        },
+        {
+            "header": "Prof. Calculus approves!",
+            "image": "/screenshots/Screenshot-Calculus.png",
+            "description": "Not every math needs to be rocket science but like the professor, you can find out how fast rocket goes or how much fuel it will take"
+        },
+        {
+            "header": "Statistical",
+            "image": "/screenshots/Screenshot-Statistics.png",
+            "description": "Statistically analyse a large linear set of data, see the trends, average, deviations, etc"
+        },
+        {
+            "header": "Programmer Mode",
+            "image": "/screenshots/Screenshot-Programmer.png",
+            "description": "Wanna play with numbers the way a computer understands them?"
+        },
+        {
+            "header": "Date Mode",
+            "image": "/screenshots/Screenshot-Date.png",
+            "description": "Find how many days until your next birthday or what date is the next summer holiday"
+        },
+        {
+            "header": "Unit Converter Modes",
+            "image": "/screenshots/Screenshot-Converter-Speed.png",
+            "description": "Convert any quantity from any scientific unit to any other unit which is of the same type"
+        },
+        {
+            "header": "Currency Converter Mode",
+            "image": "/screenshots/Screenshot-Converter-Currency.png",
+            "description": "Convert amount of money from type of currency to another. The foreign exchange rate is updated regularly. (The app needs internet connection to update forex rates)"
+        }
+    ]
+}
